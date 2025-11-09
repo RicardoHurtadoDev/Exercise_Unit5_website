@@ -1,0 +1,62 @@
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px auto;
+    max-width: 700px;
+    background: #111;
+    color: #0f0;
+    padding: 20px;
+}
+
+header {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+h1 {
+    color: #0f0;
+    font-size: 2.5em;
+    text-shadow: 0 0 10px #0f0;
+}
+
+.image-container {
+    text-align: center;
+    margin: 20px 0;
+}
+
+#torvalds-image {
+    width: 200px;
+    height: 200px;
+    border-radius: 10%;
+    border: 3px solid #0f0;
+    box-shadow: 0 0 20px #0f0;
+}
+
+.bio {
+    background: #000;
+    padding: 20px;
+    border: 1px solid #0f0;
+    border-radius: 10px;
+}
+
+h2 {
+    color: #0f0;
+    border-bottom: 1px dashed #0f0;
+    padding-bottom: 5px;
+}
+
+ul {
+    padding-left: 20px;
+}
+
+li {
+    margin: 8px 0;
+}
+
+footer {
+    text-align: center;
+    margin-top: 30px;
+    font-weight: bold;
+    color: #0f0;
+    text-shadow: 0 0 10px #0f0;
+}
