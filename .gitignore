@@ -1,0 +1,28 @@
+GITIGNORE FILE
+
+# Ignora todos los PDF
+*.pdf
+
+# Ignora todos los archivos de texto
+*.txt
+
+# Ignora Archivos del sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Ignora VSC
+.vscode/
+
+# Ignora Archivos temporales
+*.log
+*.tmp
+*.swp
+*.bak
+
+# Ignora Archivos de entorno
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
